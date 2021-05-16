@@ -7,3 +7,7 @@ venv/
 
 # db
 db.*
+
+
+# cache files
+__pychache__/
