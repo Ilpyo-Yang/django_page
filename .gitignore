@@ -11,3 +11,6 @@ db.*
 
 # cache files
 __pychache__/
+
+
+.env
