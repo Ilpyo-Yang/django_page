@@ -3,3 +3,7 @@
 
 # virtual env
 venv/
+
+
+# db
+db.*
