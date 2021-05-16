@@ -1,0 +1,13 @@
+# IDE configurations
+.vscode/
+
+# virtual env
+venv/
+
+
+# db
+db.*
+
+
+# cache files
+__pychache__/
