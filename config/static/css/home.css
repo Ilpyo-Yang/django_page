@@ -32,22 +32,22 @@ svg.mainsvg {
 div#hello {
     color: whitesmoke;
     /* width: 70%; */
-    margin: 12% 0 50px 15%;
+    margin: 12% 0 0 15%;
     height: 80%;
     font-size: 80px;
 }
 
-#sns {
+div#btn_sns {
     display: inline-block;
     text-align: right;
     margin-top: 50px;
-    width: 5%;
-    height: 100%;
+    width: 7%;
+    height: auto;
 }
 
 svg.snssvg {
     color: grey;
-    margin-bottom: 20px;
+    margin: 10% 30% 20px 0;
     width: 40%;
     height: auto;
 }
